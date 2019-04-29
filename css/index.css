@@ -277,6 +277,7 @@ footer p {
   }
   .container .logo {
     display: flex;
+    max-width: 100%;
     justify-content: center;
     padding-left: 40%;
     padding-bottom: 3%;
@@ -294,15 +295,18 @@ footer p {
 
   .top-content {
     padding-left: 2%;
+    max-width: 100%;
   }
   .middle-img {
     padding-left: 1%;
     padding-right: 2%;
+    max-width: 100%;
   }
   .bottom-content {
     padding-left: 2%;
     width: 100%;
     padding-right: 3%;
+    max-width: 100%;
   }
   .contact-content {
     padding-left: 2%;
